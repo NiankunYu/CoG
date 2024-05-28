@@ -1,1 +1,0 @@
-upload the results of spectrum measurements using the curve-of-growth method.
