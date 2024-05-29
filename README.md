@@ -2,7 +2,6 @@
 * The python code of the curve-of-growth method, measuring the emision line profiles.
 * Please see examples above.
 * If you use our code in your works, please cite our papers. Also read more details about the algorithm in our paper.
-* https://ui.adsabs.harvard.edu/abs/2020ApJ...898..102Y/abstract
 * @ARTICLE{2020ApJ...898..102Y,
        author = {{Yu}, Niankun and {Ho}, Luis C. and {Wang}, Jing},
         title = "{On the Determination of Rotation Velocity and Dynamical Mass of Galaxies Based on Integrated H I Spectra}",
@@ -21,7 +20,6 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2020ApJ...898..102Y},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 } 
-* https://ui.adsabs.harvard.edu/abs/2022ApJS..261...21Y/abstract
 * @ARTICLE{2022ApJS..261...21Y,
        author = {{Yu}, Niankun and {Ho}, Luis C. and {Wang}, Jing and {Li}, Hangyuan},
         title = "{Statistical Analysis of H I Profile Asymmetry and Shape for Nearby Galaxies}",
