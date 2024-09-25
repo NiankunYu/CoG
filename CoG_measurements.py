@@ -82,6 +82,8 @@ if fix_range == False:
 ################# measure the spectrum using the curve-of-growth method
 ########### read the H I spectrum as a dataframe
 dd0 = hca.sp_read(fits_file)
+########### remove np.nan values by rows
+dd0 = dd0.dropna(how="any", axis= 0).reset_index(drop=True)
 ########### initiate a class to measure the spectrum
 cog = spectrum(dd0)
 ########### use the curve-of-growth method to measure the spectrum and save the results in rst_cog
